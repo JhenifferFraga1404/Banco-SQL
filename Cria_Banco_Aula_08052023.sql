@@ -1,6 +1,6 @@
 
-CREATE DATABASE dbAds2023_Jonathan
-USE dbAds2023_Jonathan
+CREATE DATABASE dbAds2023_Jheniffer
+USE dbAds2023_Jheniffer
 
 CREATE TABLE tbUf
 (
